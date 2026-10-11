@@ -1,0 +1,57 @@
+{
+  "slug": "annapoorna-brahmins-catering-kochi",
+  "name": "Annapoorna Brahmins Catering",
+  "shortName": "Annapoorna Brahmins",
+  "descriptor": "Catering Services",
+  "address": "Annapoorna Lane, AV John Alunkal Rd, Vinoba Nagar, Kadavanthra, Kochi, Keralam 682020",
+  "area": "Kadavanthra",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "682020",
+  "geo": {
+    "lat": 9.9561817,
+    "lng": 76.3051081
+  },
+  "mapsLink": "https://maps.google.com/?cid=9378602262089173316",
+  "phone": "+91 94950 41915",
+  "whatsapp": "919495041915",
+  "hours": "Open 8 am – 10 pm · all days",
+  "opens": "08:00",
+  "closes": "22:00",
+  "rating": 4.9,
+  "reviewCount": 13,
+  "reviews": [
+    {
+      "name": "SIVARAMAKRISHNAN K.K",
+      "rating": 5,
+      "quote": "I would like to express my sincere appreciation to Annapoorna Caterers for their excellent support throughout my daughter’s wedding. Being a Tamil Brahmin family, there were many traditional rituals to be followed, and I am truly impressed by how systematically everything was handled."
+    },
+    {
+      "name": "Sooshma KS",
+      "rating": 5,
+      "quote": "Our experience with Annapoorna Caterers was truly memorable. From the sangeet to the wedding day, they stood by us and took care of every detail with such dedication and perfection. The team’s discipline, coordination, and professionalism were clearly visible in everything they did."
+    },
+    {
+      "name": "OTV Securities",
+      "rating": 5,
+      "quote": "Dear friends, if you are looking for the highest quality Brahmins food delivered right at your doorstep, then Kochietes can look no further, it is Annapoorna Brahmins Catering! 👌"
+    },
+    {
+      "name": "Balachandra Menon",
+      "rating": 5,
+      "quote": "Good homely food delivery on time good courtesy and manners"
+    },
+    {
+      "name": "Sobha M",
+      "rating": 5,
+      "quote": "Extremely happy with the service and food"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://annapoorna-brahmins-catering-kochi.vercel.app"
+}
